@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sample</string>
+    <string name="permission_dialog_tittle">申请权限</string>
+    <string name="permission_contents">如果应用没有授权,可能无法正常运行.是否进入设置中设置权限?</string>
+</resources>
